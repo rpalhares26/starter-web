@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 #Adding intro test
 
 #Adding last line description
+
+#Adding newline at the end
