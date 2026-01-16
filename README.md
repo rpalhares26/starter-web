@@ -17,3 +17,6 @@ Sample website with plenty of files for demos
 #Adding last line description
 
 #Adding newline at the end
+
+#Add copyrigt
+
