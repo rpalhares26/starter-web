@@ -20,3 +20,4 @@ Sample website with plenty of files for demos
 
 #Add copyrigt
 
+#How to contribute
