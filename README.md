@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 add a line for rebasing
+more changes from myfeaturebranch
 
 ## Purpose
 
