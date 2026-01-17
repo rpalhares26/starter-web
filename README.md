@@ -21,5 +21,6 @@ Sample website with plenty of files for demos
 #Adding newline at the end
 
 #Add copyrigt
-
+all rights reserverd
 #How to contribute
+
